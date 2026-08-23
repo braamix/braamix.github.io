@@ -1,0 +1,31 @@
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= hxd1zAUwQDBfKOM2waCNkBRYrpw9Jp/1WDi4+T/3I41ieo6m9pI6C5PMSu8ncpc9VI6vTgfP+0mi0EZE0nanDA==
+
+X:1
+N:https://pub.sergev.org/braam
+G:5
+E:1818806400000
+T:Braam applications
+
+C:Q2bnusEGZKQC9hiUdhLCSHKtlOeNhlxfxw39a3ojjEIQE=
+P:adventure
+V:1.0-r2
+S:59017
+I:166547
+T:Colossal Cave Adventure
+p:cmd:adventure=1.0-r2
+
+C:Q2ihcnbM9a92xI6OmUQu1M5RYII3DvKzO08K/6XIserVg=
+P:dhrystone
+V:2.1-r1
+S:11011
+I:37841
+T:the Dhrystone 2.1 integer benchmark
+p:cmd:dhrystone=2.1-r1
+
+C:Q2TDj2nu/hiCQPw/jRduMTSi6nNY1tGkbRkxevzHkrtpA=
+P:duremark
+V:1.1-r1
+S:9893
+I:22860
+T:a small CoreMark-inspired integer benchmark
+p:cmd:duremark=1.1-r1
