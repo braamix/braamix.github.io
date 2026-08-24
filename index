@@ -1,31 +1,31 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= /LEbhHZQULwKRVdOz2936vvaTQF98MkFVYmfCvgrUsn6BtsOScPdxXtlPs6RdSJXrruPeMZrShXlx3nlE41qBQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= /IkSjH4FsBic16uKMHfs/flxkiiigR7iQY8Y2kZnG2vMToylzB5ubOmCFNGhCSWD0sEd/eAfwYW2Ly1/BJ56CQ==
 
 X:1
 N:https://braamix.github.io
-G:5
+G:6
 E:1818806400000
 T:Braam applications
 
-C:Q25wd6sD2cTVe6Mmz76NNr1Irin2rXEWw0pM6hyPM1lxY=
+C:Q2t+AG+9l+WeULU7g0hvAaGvhAspmrv74GvlDFfJBQZq8=
 P:adventure
-V:1.0-r2
-S:59017
-I:166547
+V:1.0-r3
+S:59030
+I:166560
 T:Colossal Cave Adventure
-p:cmd:adventure=1.0-r2
+p:cmd:adventure=1.0-r3
 
-C:Q2Tx1XnUgXmsYTX3sHsXNHckHDY7Mc9oziYF1QstR+dfM=
+C:Q243d4cdSiWBboDeouycn1KEflZMfaH3qHif1kyjivUvU=
 P:dhrystone
-V:2.1-r1
+V:2.1-r2
 S:11011
 I:37841
 T:the Dhrystone 2.1 integer benchmark
-p:cmd:dhrystone=2.1-r1
+p:cmd:dhrystone=2.1-r2
 
-C:Q2InO6fbR0Ddk/umKdOapAUEFbGRmohNrwARr3rMwqn7I=
+C:Q25VmXTjduThM3WjBjERopTqL//xHwNE650ph+5zxoERg=
 P:duremark
-V:1.1-r1
+V:1.1-r2
 S:9893
 I:22860
 T:a small CoreMark-inspired integer benchmark
-p:cmd:duremark=1.1-r1
+p:cmd:duremark=1.1-r2
