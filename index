@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 0AUdbMVesB5USAerVXLTF1rsvhNTwkxzhLTTij9k0ZcNU0BA571ObCmYpqtcjz/WKIY8H2D0WByrgQ/x0YRHDQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= tJuzvmbbfaeSVsO4qjmb8Q8UzTI8oOKpewdct3/v+DNIlNqwPDOg7ytoKhKNUQyPqSwo1kWrvfUpaUIBfYelDA==
 
 X:1
 N:https://braamix.github.io
-G:7
+G:8
 E:1818806400000
 T:Braam applications
 
@@ -29,3 +29,11 @@ S:10127
 I:23577
 T:a small CoreMark-inspired integer benchmark
 p:cmd:duremark=1.1-r3
+
+C:Q2fxTjDoAmv7xaRq7wEtyBxUQ5f0FwLucgHD/8dq0IKgI=
+P:zip
+V:3.0-r0
+S:305417
+I:1032415
+T:Info-ZIP zip 3.0, the archiver
+p:cmd:zip=3.0-r0 cmd:zipcloak=3.0-r0 cmd:zipnote=3.0-r0 cmd:zipsplit=3.0-r0
