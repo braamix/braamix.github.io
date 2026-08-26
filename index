@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= tJuzvmbbfaeSVsO4qjmb8Q8UzTI8oOKpewdct3/v+DNIlNqwPDOg7ytoKhKNUQyPqSwo1kWrvfUpaUIBfYelDA==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= yDrYdWVi8X0g6x/FKaPjfj+QNRgHb6N9AxR6EpWHU0m+WiRwCJ2UYCQZf9D16uS1oJgVBSzjHwBRi4igljmNBA==
 
 X:1
 N:https://braamix.github.io
-G:8
+G:9
 E:1818806400000
 T:Braam applications
 
@@ -29,6 +29,14 @@ S:10127
 I:23577
 T:a small CoreMark-inspired integer benchmark
 p:cmd:duremark=1.1-r3
+
+C:Q2YvkWuizTDwf/7cRCY7gunaFROXwjgrxIz7j1KekgNxI=
+P:iconv
+V:1.16-r0
+S:1950473
+I:44409540
+T:Citrus iconv, character set conversion
+p:cmd:iconv=1.16-r0
 
 C:Q2fxTjDoAmv7xaRq7wEtyBxUQ5f0FwLucgHD/8dq0IKgI=
 P:zip
