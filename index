@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= P5cC3he46Geso6yUXYHMgsH20uCLZIHNgmypYsB81XmLW/Gk2Z6J5y+GybGW4bZPP8xOZ8uiQ1Hbe98IW7OxDQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= ySWM8WYWxNKvKyTRW7+aNq7WdU7KIX1Wm5ICi/7aXh35id76zSHP+eNYj43vR8ldxmB6WWMWAb9jz1DhXfpRCQ==
 
 X:1
 N:https://braamix.github.io
-G:18
+G:19
 E:1818806400000
 T:Braam applications
 
@@ -38,13 +38,13 @@ I:44411012
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r1
 
-C:Q2zTFrOkwvHmZ18lIQD2JB/1YP1RjiDrznBcXDqhpKxyQ=
+C:Q2Gq2h4M7Ca8xV1UEpb0n9rvfbgdT6q96CnKB2PDSUfpY=
 P:vi
-V:3.6-r7
-S:155860
-I:464556
+V:3.6-r8
+S:155994
+I:464846
 T:UCB ex/vi 3.6, the visual editor
-p:cmd:ex=3.6-r7 cmd:vi=3.6-r7
+p:cmd:ex=3.6-r8 cmd:vi=3.6-r8
 
 C:Q2koOyAhiB/D5ZHkHUk2KMFBIMxnrUfZyzLNiRk7sRPcg=
 P:zip
