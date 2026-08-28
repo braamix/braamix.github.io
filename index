@@ -1,12 +1,12 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= T3Itw6fRiAXc+zSqo8UZGCsnWy/u/Mdpk88wRmC0W79QGv97n9r6QqGU7nXP+psFAFJee4G0jm5cYDf1RPUFCw==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= GR2mgBpcwwhSl9whFOsJ3c2FfwN1vVs31W7htsrpu/EW9C/oH6pzNA9nmvL2CAU7HFBjdHB3r3EID4ONaP/NBw==
 
 X:1
 N:https://braamix.github.io
-G:24
+G:25
 E:1818806400000
 T:Braam applications
 
-C:Q2cX1B6qVAmWolx5QiNe+UzhX6JccC+AwI8p5wwbYstjM=
+C:Q24e0FhhIV9LpnEsSEsISOU3XsVjcNULpzkiVEseB2ku0=
 P:adventure
 V:1.0-r4
 S:59319
@@ -14,7 +14,7 @@ I:167360
 T:Colossal Cave Adventure
 p:cmd:adventure=1.0-r4
 
-C:Q2jozExr4m0FFZb5FCXlG2KQTkk2Nmx3JvN7oojSoYOyc=
+C:Q2aC8jyUcUVncR/x0iEJQUKGyuBO8k2BFmV7qIEvqyLB8=
 P:dhrystone
 V:2.1-r3
 S:11242
@@ -22,7 +22,7 @@ I:38558
 T:the Dhrystone 2.1 integer benchmark
 p:cmd:dhrystone=2.1-r3
 
-C:Q2FcyVsrM4OlGh9ewVMfXazJxLkOqabRn34+xSpEThArs=
+C:Q2DMM6z3/HvxIERo9dHTzndLLi+eTdBRUadyYXAjrQXFc=
 P:duremark
 V:1.1-r3
 S:10127
@@ -30,7 +30,7 @@ I:23577
 T:a small CoreMark-inspired integer benchmark
 p:cmd:duremark=1.1-r3
 
-C:Q2uefjblUBEU7Li3wsMDmyWPD3zoEtItq4I+L/cE9q+FA=
+C:Q2bUd+xMrHa9iWbLrR9DOa/w1WQGvoxoSnxq3Ifx35qT4=
 P:iconv
 V:1.16-r1
 S:1951050
@@ -38,7 +38,15 @@ I:44411012
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r1
 
-C:Q2W/f12bVmkGT4jrr90f2mZOfEsTm5efzjxvVCGc1PWEI=
+C:Q2CK32U2Ze+cccZB/yEcNqtcYejgt2z9oyoIMvF1vCOnw=
+P:le
+V:1.16.8-r0
+S:206831
+I:622433
+T:LE 1.16.8, a block-oriented text editor
+p:cmd:le=1.16.8-r0
+
+C:Q2D+dK51HW47tbafeg8g4rqmsEcsIavL6zeIyN06ZDiq0=
 P:uemacs
 V:4.0.15-r0
 S:161391
@@ -46,7 +54,7 @@ I:384659
 T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
 p:cmd:em=4.0.15-r0
 
-C:Q25Wt4OayhxEIMya5Qd3Os0WN21gNADaQktF7qBYCMqEM=
+C:Q2cQqxyp5+mWBwTN9HNva0cp9i1ZWQ/zswGV47mhVGAss=
 P:vi
 V:3.6-r9
 S:157871
@@ -54,7 +62,7 @@ I:472320
 T:UCB ex/vi 3.6, the visual editor
 p:cmd:ex=3.6-r9 cmd:vi=3.6-r9
 
-C:Q2koOyAhiB/D5ZHkHUk2KMFBIMxnrUfZyzLNiRk7sRPcg=
+C:Q2LyBbeHA66uminXUcClqkEsfvNMdBhUSGWgoDeR+QqTA=
 P:zip
 V:3.0-r1
 S:305658
