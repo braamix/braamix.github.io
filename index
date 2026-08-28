@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= +LyzbW8vjux4OOnXK134z3sys/Pq7YcRyPhFr8huVG9Vt0Wl+8OaUisXOn2s7RMju73skQQsusC/rw0itYqlDg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= T3Itw6fRiAXc+zSqo8UZGCsnWy/u/Mdpk88wRmC0W79QGv97n9r6QqGU7nXP+psFAFJee4G0jm5cYDf1RPUFCw==
 
 X:1
 N:https://braamix.github.io
-G:23
+G:24
 E:1818806400000
 T:Braam applications
 
@@ -38,13 +38,13 @@ I:44411012
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r1
 
-C:Q229eq1jM8bNO4tphqtnjMNm7vp7t0gK3AEMeIRqN7Oto=
+C:Q2W/f12bVmkGT4jrr90f2mZOfEsTm5efzjxvVCGc1PWEI=
 P:uemacs
-V:4.0-r3
-S:161386
-I:384645
-T:uEmacs/PK 4.0, the MicroEMACS screen editor
-p:cmd:em=4.0-r3
+V:4.0.15-r0
+S:161391
+I:384659
+T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
+p:cmd:em=4.0.15-r0
 
 C:Q25Wt4OayhxEIMya5Qd3Os0WN21gNADaQktF7qBYCMqEM=
 P:vi
