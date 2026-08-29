@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= M1EugEqmIlaHPuVi8uIMVzJVGNjf9GpcZQqIoJD49OVni0Ls5Gu12vbklElqxUvQgMMc3BVV64BVPzLAg31bBw==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= hSxfydHnYSUGDZx8SIAx8CrLBPls6EL8qnNBlc4j5i8oWUJro936DBT755nCcNsAlQ3lqpCCP6I0qzhBFxqmBg==
 
 X:1
 N:https://braamix.github.io
-G:26
+G:27
 E:1818806400000
 T:Braam applications
 
@@ -38,11 +38,11 @@ I:44411012
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r1
 
-C:Q2xht2fNjSVFCL04ezPaM/eINigJ3SoXJ0PNEoBZuzzP4=
+C:Q2lSwcE3ymDja9pc68t4qYHbVPnWDX0nhzxbqytgypFYg=
 P:le
 V:1.16.8-r0
-S:204133
-I:610654
+S:202215
+I:604669
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r0
 
