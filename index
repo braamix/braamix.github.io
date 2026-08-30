@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= RKbAZFO3N7DyOGNG1qIl6ilKvoUjw3IbxBP6B1HWD/6uXfHfi5OwXh0sTImXYPbxbkn7N0MyBRYYCyplmencAg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= KOHBKHDxApLzOirO75yMHRPH0+2fZEfWa2HMKh+s1941qzyRTNBFKYGjLo84H/nry4VHjDkauIgyDn+jTbvTAw==
 
 X:1
 N:https://braamix.github.io
-G:28
+G:29
 E:1818806400000
 T:Braam applications
 
@@ -22,13 +22,13 @@ I:38558
 T:the Dhrystone 2.1 integer benchmark
 p:cmd:dhrystone=2.1-r3
 
-C:Q2DMM6z3/HvxIERo9dHTzndLLi+eTdBRUadyYXAjrQXFc=
+C:Q2nUeHGmcim38p7Gl3EvMF6dVThVC8rHr5mUR1mJ72LrE=
 P:duremark
-V:1.1-r3
-S:10127
-I:23577
+V:1.1-r4
+S:10231
+I:23601
 T:a small CoreMark-inspired integer benchmark
-p:cmd:duremark=1.1-r3
+p:cmd:duremark=1.1-r4
 
 C:Q2bUd+xMrHa9iWbLrR9DOa/w1WQGvoxoSnxq3Ifx35qT4=
 P:iconv
@@ -38,13 +38,13 @@ I:44411012
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r1
 
-C:Q2TU0kAC93Zo482Cb4bb4OMiF4Y7AJaABwFu3n9ifJGhg=
+C:Q2Ldt8s8+TxDlIZQOn862WNKgpGAwEG446rRQA4pDh4hk=
 P:le
-V:1.16.8-r1
-S:204082
-I:607851
+V:1.16.8-r2
+S:208170
+I:617285
 T:LE 1.16.8, a block-oriented text editor
-p:cmd:le=1.16.8-r1
+p:cmd:le=1.16.8-r2
 
 C:Q2D+dK51HW47tbafeg8g4rqmsEcsIavL6zeIyN06ZDiq0=
 P:uemacs
