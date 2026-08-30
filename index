@@ -1,71 +1,71 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= Jxy44VV7m+qCBxZFaE9m01NLaioodtp+9n9Iyy/nR36Cldg8kV0nMfhc8hD0Mo0nqfBANc9xBhK6TvHhf3qSBA==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= Wp9ep8rBZEWAOFI7vnkpGa8d9uv9cXeo4w/zWCT0FvJ5SEYu3/O94vexJI2HqOVhLB/u922vWgD/KdPGj5IxBQ==
 
 X:1
 N:https://braamix.github.io
-G:30
+G:31
 E:1818806400000
 T:Braam applications
 
-C:Q24e0FhhIV9LpnEsSEsISOU3XsVjcNULpzkiVEseB2ku0=
+C:Q2+IZMj9ati65ndrvu6S6795bfSJcuLs9x6nmFnT6a4fE=
 P:adventure
-V:1.0-r4
-S:59319
-I:167360
+V:1.0-r5
+S:59877
+I:167538
 T:Colossal Cave Adventure
-p:cmd:adventure=1.0-r4
+p:cmd:adventure=1.0-r5
 
-C:Q2aC8jyUcUVncR/x0iEJQUKGyuBO8k2BFmV7qIEvqyLB8=
+C:Q2SsLzQ8PoCwkDN+7zyXHNdjYHEfENtRSidXX2RMOkODQ=
 P:dhrystone
-V:2.1-r3
-S:11242
-I:38558
+V:2.1-r4
+S:11265
+I:38497
 T:the Dhrystone 2.1 integer benchmark
-p:cmd:dhrystone=2.1-r3
+p:cmd:dhrystone=2.1-r4
 
-C:Q2nUeHGmcim38p7Gl3EvMF6dVThVC8rHr5mUR1mJ72LrE=
+C:Q2uTm4X8eM8ueGFSSj+mJFoT3miDGkkkroLMfGOYr/rnk=
 P:duremark
-V:1.1-r4
-S:10231
-I:23601
+V:1.1-r5
+S:11340
+I:25894
 T:a small CoreMark-inspired integer benchmark
-p:cmd:duremark=1.1-r4
+p:cmd:duremark=1.1-r5
 
-C:Q2bUd+xMrHa9iWbLrR9DOa/w1WQGvoxoSnxq3Ifx35qT4=
+C:Q2LNaypOI9PLaNwjg6YFsfvEUdvvCu3gqTGb6bRco9QSk=
 P:iconv
-V:1.16-r1
-S:1951050
-I:44411012
+V:1.16-r2
+S:1955074
+I:44419285
 T:Citrus iconv, character set conversion
-p:cmd:iconv=1.16-r1
+p:cmd:iconv=1.16-r2
 
-C:Q2Uf3p/tYCPdeJwlNuclCmI6FZ+Put2kWe36RhQlGlPAk=
+C:Q2zTYSoqDVKj7YhQIouLs5mUcnpnoAGKIuDHoEq6aJ+b4=
 P:le
-V:1.16.8-r3
-S:208174
-I:617285
+V:1.16.8-r4
+S:209187
+I:618336
 T:LE 1.16.8, a block-oriented text editor
-p:cmd:le=1.16.8-r3
+p:cmd:le=1.16.8-r4
 
-C:Q2D+dK51HW47tbafeg8g4rqmsEcsIavL6zeIyN06ZDiq0=
+C:Q25JfnousjtB900BrDCK7z0G/0BtD6REHpzQQsG85y9VY=
 P:uemacs
-V:4.0.15-r0
-S:161391
-I:384659
+V:4.0.15-r1
+S:165180
+I:388011
 T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
-p:cmd:em=4.0.15-r0
+p:cmd:em=4.0.15-r1
 
-C:Q2cQqxyp5+mWBwTN9HNva0cp9i1ZWQ/zswGV47mhVGAss=
+C:Q2wVra5UIjDOll43+NHuogc9Fi+0I3cDgBc4q22Ps3bnE=
 P:vi
-V:3.6-r9
-S:157871
-I:472320
+V:3.6-r10
+S:159274
+I:472756
 T:UCB ex/vi 3.6, the visual editor
-p:cmd:ex=3.6-r9 cmd:vi=3.6-r9
+p:cmd:ex=3.6-r10 cmd:vi=3.6-r10
 
-C:Q2LyBbeHA66uminXUcClqkEsfvNMdBhUSGWgoDeR+QqTA=
+C:Q22kYjY+BHq1cAbgXqWXzrQbLwH02yVzC1hWnIPgLJCAs=
 P:zip
-V:3.0-r1
-S:305658
-I:1033174
+V:3.0-r2
+S:307176
+I:1034201
 T:Info-ZIP zip 3.0, the archiver
-p:cmd:zip=3.0-r1 cmd:zipcloak=3.0-r1 cmd:zipnote=3.0-r1 cmd:zipsplit=3.0-r1
+p:cmd:zip=3.0-r2 cmd:zipcloak=3.0-r2 cmd:zipnote=3.0-r2 cmd:zipsplit=3.0-r2
