@@ -1,79 +1,79 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= EBaUDOShKI5r5nnPdW6gGcGIuBgPpfujvi+1d7MYs9ndIcgoIDZt8zlyQ0tNdWGMOS2anYSIekEAVIyoy7HODg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= QwcrMxMSvbjX7LnBpPxSdZBFiJhX6QLGJU0dVcZLlW9R9S+DWSv4+q26w/qRqGx758IPznYk5nHv9OgKWJlfDQ==
 
 X:1
 N:https://braamix.github.io
-G:33
+G:34
 E:1818806400000
 T:Braam applications
 
-C:Q2/dz31ta4uNqIiAn/1yFt1O+DE0pAwPA6tDIBxS9RIv4=
+C:Q2sG/rLaJ+HnpF0qorCfkTx1dHlpvorOXx10vrpgJzlhw=
 P:adventure
-V:1.0-r7
+V:1.0-r8
 S:60317
 I:168165
 T:Colossal Cave Adventure
-p:cmd:adventure=1.0-r7
+p:cmd:adventure=1.0-r8
 
-C:Q2XxU76dVhStqOVX+C4euuMorGgXQUR6QJlcFEs4mivo4=
+C:Q2Mko7uPm8dpNndMcKOfxuqMCOUPO6npqhwEjVFonM43g=
 P:dhrystone
-V:2.1-r6
+V:2.1-r7
 S:11266
 I:38497
 T:the Dhrystone 2.1 integer benchmark
-p:cmd:dhrystone=2.1-r6
+p:cmd:dhrystone=2.1-r7
 
-C:Q2Zbb0rEao0RvrBhAdAozFSRNU9N4rC5sJ+J67TiNKe3U=
+C:Q2gFz4yURbdBYf3D0rhQJm2jvZg8v/LZyMpHICIWWVe8Y=
 P:duremark
-V:1.1-r7
+V:1.1-r8
 S:11365
 I:25973
 T:a small CoreMark-inspired integer benchmark
-p:cmd:duremark=1.1-r7
+p:cmd:duremark=1.1-r8
 
-C:Q2ZCHLhZROzPHL08qgI6FGAwp7N1EuXbv6BF49nwqY9eU=
+C:Q223ZsS9fkUtDxnoUNtOBoiEkBm4rSUgSbN5I30Q4IrrA=
 P:iconv
-V:1.16-r4
-S:1953008
-I:44414512
+V:1.16-r5
+S:1953044
+I:44415463
 T:Citrus iconv, character set conversion
-p:cmd:iconv=1.16-r4
+p:cmd:iconv=1.16-r5
 
-C:Q2OqUyteXjYo67I0p0azZ2h7Z0FhFh+0NGLEeMsoB8+0U=
+C:Q2X8eBsXkEqsITP/PGyy9JRYjprGbC8rXz1WRjHverMyk=
 P:le
-V:1.16.8-r6
-S:210675
-I:622368
+V:1.16.8-r7
+S:210838
+I:623658
 T:LE 1.16.8, a block-oriented text editor
-p:cmd:le=1.16.8-r6
+p:cmd:le=1.16.8-r7
 
-C:Q2pbdyxiCA2VjeTUE8rJaTSGP2iJgqIdme/Uz65ehpHa4=
+C:Q2R7JRf4FTB+NXZ1LkYvBpXhDopN7WttxQUzmAu4b3Vw8=
 P:simbesm
-V:1.0-r1
-S:2589584
-I:16770849
+V:1.0-r2
+S:2591901
+I:16778270
 T:BESM-6 mainframe simulator that boots Unix
-p:cmd:besm6=1.0-r1
+p:cmd:besm6=1.0-r2
 
-C:Q2yVvzFnwBJtpHOSr3hSFovr/fx+x5T2jS4V1zwZRhH1k=
+C:Q2LIUvSb/gfwlHu7LZ43DopfNg8aUqnU2CAJFcvwXfBQQ=
 P:uemacs
-V:4.0.15-r3
+V:4.0.15-r4
 S:169203
 I:401009
 T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
-p:cmd:em=4.0.15-r3
+p:cmd:em=4.0.15-r4
 
-C:Q27dMM7StChacvTVTYrIZrJqYK13OCDOeNyfJoKB8lnPI=
+C:Q2ZKo9Z3o/QsnXeZjV+9h/ayUgf1LcooVUft2uy7j9mHc=
 P:vi
-V:3.6-r12
-S:160658
-I:474908
+V:3.6-r13
+S:160649
+I:474892
 T:UCB ex/vi 3.6, the visual editor
-p:cmd:ex=3.6-r12 cmd:vi=3.6-r12
+p:cmd:ex=3.6-r13 cmd:vi=3.6-r13
 
-C:Q2nRwqBWGON679UWujULkQT/+FI0rtM2N52WRN4XDbk6k=
+C:Q2qm0jJdUYUylvlesyOfVsSO7SDrrdTrcKdLEd/3i3BkY=
 P:zip
-V:3.0-r4
+V:3.0-r5
 S:306871
 I:1020843
 T:Info-ZIP zip 3.0, the archiver
-p:cmd:zip=3.0-r4 cmd:zipcloak=3.0-r4 cmd:zipnote=3.0-r4 cmd:zipsplit=3.0-r4
+p:cmd:zip=3.0-r5 cmd:zipcloak=3.0-r5 cmd:zipnote=3.0-r5 cmd:zipsplit=3.0-r5
