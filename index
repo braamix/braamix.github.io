@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= rRrR/15uISzPtN9IEZ+Dved5U3OYCMEujWfb+H23iUsgEffyFdQE8ubXNCT4yrStOCUDNHiv0Bgc3eTvPcZrCQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= HohnUveu72Lo7iNtKxWz5nHtq5hTML6vdxsSCncY5IHRgsITUkRZ5AJJqUNr+FAIALG6ODqOoOkhzyLoUzX0BA==
 
 X:1
 N:https://braamix.github.io
-G:38
+G:39
 E:1818806400000
 T:Braam applications
 
@@ -22,13 +22,13 @@ I:74604
 T:IOCCC 2012 ASCII fluid simulator
 p:cmd:asciifluid=1.0-r1
 
-C:Q2GXrY5jB1h77lwGHRwbFXVORBrsnaDnHyRQoGSIWitB0=
+C:Q2mVXxVnigIvQtxr8C/fRaFY6OJoMwVuYuT/wD9hJYHrM=
 P:asciiquarium
-V:2.2.0-r0
+V:2.2.0-r1
 S:23117
 I:64742
 T:ASCII art aquarium animation
-p:cmd:asciiquarium=2.2.0-r0
+p:cmd:asciiquarium=2.2.0-r1
 
 C:Q2Mko7uPm8dpNndMcKOfxuqMCOUPO6npqhwEjVFonM43g=
 P:dhrystone
