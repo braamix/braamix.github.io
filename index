@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= xVCLkHhWc5nZL6Aw0kUJcr+N6ZfvA/FlqFpmjRwqd/eXhOoE3zAnRIJEGuv3OMoOLorKzDVGObrU5BOYLVUpBQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= ZOLYYPD7/OSdJyPa1MtmEPaCz/w+t5orVlllvtQ3gtgdR2Yd664TTM0qxf/UGhqynNOgXsZIzJapVhJpZALZCg==
 
 X:1
 N:https://braamix.github.io
-G:35
+G:36
 E:1818806400000
 T:Braam applications
 
@@ -14,13 +14,13 @@ I:168165
 T:Colossal Cave Adventure
 p:cmd:adventure=1.0-r8
 
-C:Q2RhQRdbtSji9C9WLF6b0OHKY0gtBN3Cp2j6RDWJ654T0=
+C:Q2HPYvsnZgIKtZd26OQK56Kx1jUpgKjqK/bH+i2jZttDU=
 P:asciifluid
-V:1.0-r0
-S:23047
-I:74575
+V:1.0-r1
+S:23065
+I:74604
 T:IOCCC 2012 ASCII fluid simulator
-p:cmd:asciifluid=1.0-r0
+p:cmd:asciifluid=1.0-r1
 
 C:Q2Mko7uPm8dpNndMcKOfxuqMCOUPO6npqhwEjVFonM43g=
 P:dhrystone
