@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= ZOLYYPD7/OSdJyPa1MtmEPaCz/w+t5orVlllvtQ3gtgdR2Yd664TTM0qxf/UGhqynNOgXsZIzJapVhJpZALZCg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= zvnojia23S3wZOTn9wfPxJ4YA6jl2AKhuqc7WtutPHOLqcAqW3Trp8UVZuDNkxyo0aVIZZSwpIWY/fsAuGPSAQ==
 
 X:1
 N:https://braamix.github.io
-G:36
+G:37
 E:1818806400000
 T:Braam applications
 
@@ -21,6 +21,14 @@ S:23065
 I:74604
 T:IOCCC 2012 ASCII fluid simulator
 p:cmd:asciifluid=1.0-r1
+
+C:Q2XP3W2Qw72IkiePISRyk2dDHlw6aOSE5aXYBkDqVb7Bo=
+P:asciiquarium
+V:1.0-r0
+S:23126
+I:64753
+T:ASCII art aquarium animation
+p:cmd:asciiquarium=1.0-r0
 
 C:Q2Mko7uPm8dpNndMcKOfxuqMCOUPO6npqhwEjVFonM43g=
 P:dhrystone
@@ -54,13 +62,13 @@ I:623658
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r7
 
-C:Q2R7JRf4FTB+NXZ1LkYvBpXhDopN7WttxQUzmAu4b3Vw8=
+C:Q2iW19N7+y9/38Fq+QJUawjhTmLUfBkl7fdurYFYov6dU=
 P:simbesm
-V:1.0-r2
-S:2591901
-I:16778270
+V:1.0-r3
+S:2594191
+I:16779900
 T:BESM-6 mainframe simulator that boots Unix
-p:cmd:besm6=1.0-r2
+p:cmd:besm6=1.0-r3
 
 C:Q2LIUvSb/gfwlHu7LZ43DopfNg8aUqnU2CAJFcvwXfBQQ=
 P:uemacs
