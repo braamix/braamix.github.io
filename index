@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= h/iEEzUo5KCXtC3OmrQKDNMG2+/mK6YIE2WuVyJSyk6p6Bpi/JJO3DHv7KZ//4iZlujNDA3569Ik4MrQw925Dw==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= Y592XbGVixrThODAFL/ucC4hknx8gBXUlBQPGihaRBVnUDyBPuxvrJpM1U+lMya46sVmj1hDrz1BqmCsjru0Bw==
 
 X:1
 N:https://braamix.github.io
-G:42
+G:43
 E:1818806400000
 T:Braam applications
 
@@ -62,13 +62,13 @@ I:623658
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r7
 
-C:Q2ydrHBSwnC2Oliq1VYNoSyBbCPBhu2kbv0msFxLlEZ34=
+C:Q2QFEQI9Q2+0TquLTNn9nQx1z1vXEA7dP5JdifLr6RkQ4=
 P:mbasic
-V:1.1-r3
-S:70988
-I:163704
+V:1.1-r4
+S:72474
+I:167950
 T:Microsoft BASIC 1.1 for the 6502
-p:cmd:mbasic=1.1-r3
+p:cmd:mbasic=1.1-r4
 
 C:Q2iW19N7+y9/38Fq+QJUawjhTmLUfBkl7fdurYFYov6dU=
 P:simbesm
