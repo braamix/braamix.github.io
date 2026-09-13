@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= oe/E5zQLRz/W1oU96OXWqTFmIjhYCvCYq9WvUigE8ZXfbg49x+VI/4LN502edj4SQz4ljc//mvp+llbvg3QgDQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 0GppSYopY9gqM+vbMUqpYFYY+6+iTCBkLrIBjAzHPuKFcV6hL2LSwUlOgWQrAOKv3tL+Y50ksNi7Jb9Gcul/Cg==
 
 X:1
 N:https://braamix.github.io
-G:46
+G:47
 E:1818806400000
 T:Braam applications
 
@@ -46,6 +46,14 @@ I:25973
 T:a small CoreMark-inspired integer benchmark
 p:cmd:duremark=1.1-r8
 
+C:Q2xcfFjusz8rrpUqPunZHFoG7JXumE2oYiXHJeP1SN474=
+P:eh
+V:1.8.1-r1
+S:34765
+I:99320
+T:EH 1.8.1, vi(1) the good parts version
+p:cmd:eh=1.8.1-r1
+
 C:Q223ZsS9fkUtDxnoUNtOBoiEkBm4rSUgSbN5I30Q4IrrA=
 P:iconv
 V:1.16-r5
@@ -54,13 +62,13 @@ I:44415463
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r5
 
-C:Q2X8eBsXkEqsITP/PGyy9JRYjprGbC8rXz1WRjHverMyk=
+C:Q2d52uPWTlDX402Iwk2SYLinQoTXyJcZhay+8ZC/oyPi4=
 P:le
-V:1.16.8-r7
-S:210838
-I:623658
+V:1.16.8-r8
+S:211086
+I:624224
 T:LE 1.16.8, a block-oriented text editor
-p:cmd:le=1.16.8-r7
+p:cmd:le=1.16.8-r8
 
 C:Q21GB3rwAEwpiHrme802CUS6XO2ErCEvOWrQOv/lHGJs4=
 P:mbasic
