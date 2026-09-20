@@ -1,119 +1,119 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= uHa19LJ0pwpQ+CBLj6efkU+PbdNYd52rFCM4ArQzPHxXTrDe5mfGoUnpwyJhLVYuFm5Ra5GxPThpzYPe6jzZDg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= gAlBJrKjfr0/ltFFlBFMKTqzvwdih4fwZiBiu8Yh0/6/3+9WEINVTICoMTLrjY9YinW6mDRrktH8QQrdhznNCA==
 
 X:1
 N:https://braamix.github.io
-G:49
+G:50
 E:1818806400000
 T:Braam applications
 
-C:Q2sG/rLaJ+HnpF0qorCfkTx1dHlpvorOXx10vrpgJzlhw=
+C:Q2mQogt6lAvNMRj34+o3+QZUuz8CGRgK9j59egdAKUKSs=
 P:adventure
-V:1.0-r8
-S:60317
-I:168165
+V:1.0-r9
+S:60303
+I:168139
 T:Colossal Cave Adventure
-p:cmd:adventure=1.0-r8
+p:cmd:adventure=1.0-r9
 
-C:Q2HPYvsnZgIKtZd26OQK56Kx1jUpgKjqK/bH+i2jZttDU=
+C:Q2tUW5MG1fHrkr/mQH1udHw4qTCy82inh1oQV3JLUDnnU=
 P:asciifluid
-V:1.0-r1
-S:23065
-I:74604
+V:1.0-r2
+S:23046
+I:74578
 T:IOCCC 2012 ASCII fluid simulator
-p:cmd:asciifluid=1.0-r1
+p:cmd:asciifluid=1.0-r2
 
-C:Q2mVXxVnigIvQtxr8C/fRaFY6OJoMwVuYuT/wD9hJYHrM=
+C:Q27PNIrCdG53xbYuL1QixJawTdKhdI8gGh5GPaAjpZ2ds=
 P:asciiquarium
-V:2.2.0-r1
-S:23117
-I:64742
+V:2.2.0-r2
+S:23096
+I:64716
 T:ASCII art aquarium animation
-p:cmd:asciiquarium=2.2.0-r1
+p:cmd:asciiquarium=2.2.0-r2
 
-C:Q2Mko7uPm8dpNndMcKOfxuqMCOUPO6npqhwEjVFonM43g=
+C:Q2qOYzoMm+iZnE9/Gbsx4Fc25S4dGnBbOBCnO6okzhMAo=
 P:dhrystone
-V:2.1-r7
-S:11266
-I:38497
+V:2.1-r8
+S:11268
+I:38471
 T:the Dhrystone 2.1 integer benchmark
-p:cmd:dhrystone=2.1-r7
+p:cmd:dhrystone=2.1-r8
 
-C:Q2gFz4yURbdBYf3D0rhQJm2jvZg8v/LZyMpHICIWWVe8Y=
+C:Q2MS15ZqIsl+5NwwIkUT7O35Jexq7rrc5at80/+nM7kYs=
 P:duremark
-V:1.1-r8
-S:11365
-I:25973
+V:1.1-r9
+S:11342
+I:25938
 T:a small CoreMark-inspired integer benchmark
-p:cmd:duremark=1.1-r8
+p:cmd:duremark=1.1-r9
 
-C:Q2RRlyvW3nqqnhBEe6L6sc7ipcxHkp7S0QCteKEzzXk88=
+C:Q2DQDPfU4gONkxCchmhA4r0fspNmF7OP9R5s26gBvwspo=
 P:eh
-V:1.8.1-r2
-S:33348
-I:94869
+V:1.8.1-r3
+S:33341
+I:94850
 T:EH 1.8.1, vi(1) the good parts version
-p:cmd:eh=1.8.1-r2
+p:cmd:eh=1.8.1-r3
 
-C:Q223ZsS9fkUtDxnoUNtOBoiEkBm4rSUgSbN5I30Q4IrrA=
+C:Q2SI9YqCMf5EVhON+C6REd3gTs3mSHNkdYOesramVT7oA=
 P:iconv
-V:1.16-r5
-S:1953044
-I:44415463
+V:1.16-r6
+S:1953051
+I:44415436
 T:Citrus iconv, character set conversion
-p:cmd:iconv=1.16-r5
+p:cmd:iconv=1.16-r6
 
-C:Q2d52uPWTlDX402Iwk2SYLinQoTXyJcZhay+8ZC/oyPi4=
+C:Q2sSJxhzAPs6qvcVHFviYEB7mFw6Ns+faUCXu30cciU9o=
 P:le
-V:1.16.8-r8
-S:211086
-I:624224
+V:1.16.8-r9
+S:211096
+I:624211
 T:LE 1.16.8, a block-oriented text editor
-p:cmd:le=1.16.8-r8
+p:cmd:le=1.16.8-r9
 
-C:Q21GB3rwAEwpiHrme802CUS6XO2ErCEvOWrQOv/lHGJs4=
+C:Q2nGlezQQY585MMHdDPI83g8tc0Kp/pJwR3l8eXdWcy4w=
 P:mbasic
-V:1.1-r7
-S:75242
-I:174218
+V:1.1-r8
+S:75230
+I:174192
 T:Microsoft BASIC 1.1 for the 6502
-p:cmd:mbasic=1.1-r7
+p:cmd:mbasic=1.1-r8
 
-C:Q27z5QGl3nz6SscedwHMKiOEp5nd+ieJox73H2GBdo2uA=
+C:Q23MGOTnubSEmAppQ0X3whWGe9eqL9geQpoaf8CWZinxk=
 P:python
-V:3.14.0-r0
-S:2151565
-I:7416212
+V:3.14.0-r1
+S:2480328
+I:8632071
 T:Python 3, written for Braam
-p:cmd:python=3.14.0-r0
+p:cmd:python=3.14.0-r1
 
-C:Q2iW19N7+y9/38Fq+QJUawjhTmLUfBkl7fdurYFYov6dU=
+C:Q2GAv7ZsOHqxQSg8dkSuI2EGwV2AMfPs/hBvVQ0UhCTw0=
 P:simbesm
-V:1.0-r3
-S:2594191
-I:16779900
+V:1.0-r4
+S:2594172
+I:16779881
 T:BESM-6 mainframe simulator that boots Unix
-p:cmd:besm6=1.0-r3
+p:cmd:besm6=1.0-r4
 
-C:Q2LIUvSb/gfwlHu7LZ43DopfNg8aUqnU2CAJFcvwXfBQQ=
+C:Q2exkiNA0aAVwqDe+hWcMkaopYIO3JPssQmRvEsli4YQw=
 P:uemacs
-V:4.0.15-r4
-S:169203
-I:401009
+V:4.0.15-r5
+S:169194
+I:400982
 T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
-p:cmd:em=4.0.15-r4
+p:cmd:em=4.0.15-r5
 
-C:Q2ZKo9Z3o/QsnXeZjV+9h/ayUgf1LcooVUft2uy7j9mHc=
+C:Q2MOoyT+P8V/PDo+guyQBa5mH2Ws9n9ELcC84pAkUJ9bM=
 P:vi
-V:3.6-r13
-S:160649
-I:474892
+V:3.6-r14
+S:161111
+I:475850
 T:UCB ex/vi 3.6, the visual editor
-p:cmd:ex=3.6-r13 cmd:vi=3.6-r13
+p:cmd:ex=3.6-r14 cmd:vi=3.6-r14
 
-C:Q2qm0jJdUYUylvlesyOfVsSO7SDrrdTrcKdLEd/3i3BkY=
+C:Q2RaGMcQiBXQ0iz3nAEm/Y056pgPNDOYRKlv+0D4RfwzU=
 P:zip
-V:3.0-r5
-S:306871
-I:1020843
+V:3.0-r6
+S:306794
+I:1020735
 T:Info-ZIP zip 3.0, the archiver
-p:cmd:zip=3.0-r5 cmd:zipcloak=3.0-r5 cmd:zipnote=3.0-r5 cmd:zipsplit=3.0-r5
+p:cmd:zip=3.0-r6 cmd:zipcloak=3.0-r6 cmd:zipnote=3.0-r6 cmd:zipsplit=3.0-r6
