@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= SXoGz0c/Vy2fPnsn/9Hx9U+xhKEZWAKHj1U28Q2XxId4hG8wYXqGUpL2wLZCrnIitZk0xmLMlxTBIpcMdVGjBQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= iIvxI8Yz9L4wUxyy5/gWZCR3XaieBcUq42RRyTnziPEiwXQtxVenl855zLYFIz2u06c223ag7g8+bCcyM/1tDg==
 
 X:1
 N:https://braamix.github.io
-G:57
+G:58
 E:1818806400000
 T:Braam applications
 
@@ -150,13 +150,13 @@ I:475850
 T:UCB ex/vi 3.6, the visual editor
 p:cmd:ex=3.6-r14 cmd:vi=3.6-r14
 
-C:Q2OJm14jNqmRLF5siWeZS8jDK4+gPICw1boO1lh2IzIyY=
+C:Q2FfBSeDWz9eKYeCFYCMxoRxmk0Upgw/XRHHcGMRAGO6I=
 P:xz
-V:5.8.4-r1
-S:594314
-I:1458804
+V:5.8.4-r2
+S:607070
+I:1507074
 T:xz 5.8.4
-p:cmd:lzcat=5.8.4-r1 cmd:lzma=5.8.4-r1 cmd:unlzma=5.8.4-r1 cmd:unxz=5.8.4-r1 cmd:xz=5.8.4-r1 cmd:xzcat=5.8.4-r1
+p:cmd:lzcat=5.8.4-r2 cmd:lzma=5.8.4-r2 cmd:unlzma=5.8.4-r2 cmd:unxz=5.8.4-r2 cmd:xz=5.8.4-r2 cmd:xzcat=5.8.4-r2
 
 C:Q2wJ63xkKH1zq3qHpb6UKW78R/p8yyHcqFDK1ooAhC6AU=
 P:zip
