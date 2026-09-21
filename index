@@ -1,12 +1,12 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= H83dWmV2z14vOb/xk6NAdGthNN9ut2I6CvTnNDe4mCuodE6pOgdybZpACOQuyNEUcCfksYgACFGVtL8HVqDsBg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 12nq2fB6NPTlVt0AwHedeIeuWKz4+h1TfNqpK9HOkqXI/chqbL61/EiDTAqj+zXaM9t917yxldeiZCXoeMZRAg==
 
 X:1
 N:https://braamix.github.io
-G:55
+G:56
 E:1818806400000
 T:Braam applications
 
-C:Q2mQogt6lAvNMRj34+o3+QZUuz8CGRgK9j59egdAKUKSs=
+C:Q2cZOArmySep0IHeqC/JYngQVM8ET5qPKlqBmhWyYhOaQ=
 P:adventure
 V:1.0-r9
 S:60303
@@ -14,7 +14,7 @@ I:168139
 T:Colossal Cave Adventure
 p:cmd:adventure=1.0-r9
 
-C:Q2FJ4EpFLxuTowA9kNCwhVDgoV4Zxr9u9eTAIROQkOaW0=
+C:Q2dnTdd+oJN9B7QVslsV5r6hXg0MR7PT8tiW3KjkXZQ3k=
 P:asciiclock
 V:1.0-r0
 S:23626
@@ -22,7 +22,7 @@ I:511581
 T:ASCII demo clock
 p:cmd:asciiclock=1.0-r0
 
-C:Q2tUW5MG1fHrkr/mQH1udHw4qTCy82inh1oQV3JLUDnnU=
+C:Q2bpOzm62dAP0tCr1Q4f6S75qhmhiu1RCTvjTLbZv2uQU=
 P:asciifluid
 V:1.0-r2
 S:23046
@@ -30,7 +30,7 @@ I:74578
 T:IOCCC 2012 ASCII fluid simulator
 p:cmd:asciifluid=1.0-r2
 
-C:Q27PNIrCdG53xbYuL1QixJawTdKhdI8gGh5GPaAjpZ2ds=
+C:Q2geViMtXc+DUG/11oIXAO35tt0JCKs8mk33jYh+pom8Q=
 P:asciiquarium
 V:2.2.0-r2
 S:23096
@@ -38,7 +38,15 @@ I:64716
 T:ASCII art aquarium animation
 p:cmd:asciiquarium=2.2.0-r2
 
-C:Q2tyB4Jvf1ZX4owqLBThiTWb0sjR2JMVF4R9fxgWSnU68=
+C:Q2vKcPcYXoQO7tXLE/kOsYaiDgDCNStefGJlmlnA9VSHo=
+P:bzip2
+V:1.0.8-r0
+S:161329
+I:492723
+T:bzip2 1.0.8
+p:cmd:bunzip2=1.0.8-r0 cmd:bzcat=1.0.8-r0 cmd:bzip2=1.0.8-r0
+
+C:Q2lJsmh8hs5mn/Et+UDvysH/JEQ0ie553MSpxYdV0g/Wc=
 P:c4
 V:1.0-r0
 S:25801
@@ -46,7 +54,7 @@ I:78727
 T:C4, C in four functions
 p:cmd:c4=1.0-r0
 
-C:Q20zTL6IQxF3zD/kAYyjGJJPUMJ5FTeOS8IZWi936qdY4=
+C:Q2wsT0pgDPvyHdaIzPmzLfw6jQT4DJJFfrzfji1q2fArc=
 P:cmatrix
 V:1.2a-r1
 S:11919
@@ -54,7 +62,7 @@ I:31483
 T:ASCII Matrix screensaver
 p:cmd:cmatrix=1.2a-r1
 
-C:Q2qOYzoMm+iZnE9/Gbsx4Fc25S4dGnBbOBCnO6okzhMAo=
+C:Q2jW4nx5I98Ttbk6W1zbBrN1jBYJul2FLtblYu+vdkmp8=
 P:dhrystone
 V:2.1-r8
 S:11268
@@ -62,7 +70,7 @@ I:38471
 T:the Dhrystone 2.1 integer benchmark
 p:cmd:dhrystone=2.1-r8
 
-C:Q2MS15ZqIsl+5NwwIkUT7O35Jexq7rrc5at80/+nM7kYs=
+C:Q2Se0EYf4Z93icioGNi5mEKxuOzkB0ceehSXHBw2WqOZ8=
 P:duremark
 V:1.1-r9
 S:11342
@@ -70,7 +78,7 @@ I:25938
 T:a small CoreMark-inspired integer benchmark
 p:cmd:duremark=1.1-r9
 
-C:Q2DQDPfU4gONkxCchmhA4r0fspNmF7OP9R5s26gBvwspo=
+C:Q2TFQfiPS0o0U7fCKPwwkBXFcCAE6+zR95Cmy3N0I3hXs=
 P:eh
 V:1.8.1-r3
 S:33341
@@ -78,7 +86,15 @@ I:94850
 T:EH 1.8.1, vi(1) the good parts version
 p:cmd:eh=1.8.1-r3
 
-C:Q2SI9YqCMf5EVhON+C6REd3gTs3mSHNkdYOesramVT7oA=
+C:Q2e7a9WaqOr9+e44M37PnLohK93r/ulQ02YfwqrN5fEVk=
+P:gzip
+V:20190107-r0
+S:506233
+I:1293324
+T:FreeBSD gzip 20190107
+p:cmd:gunzip=20190107-r0 cmd:gzcat=20190107-r0 cmd:gzip=20190107-r0 cmd:zcat=20190107-r0
+
+C:Q2DppfvYL96tMU8Ylb0m1elG0QmLAqTk3lMICenFjfln0=
 P:iconv
 V:1.16-r6
 S:1953051
@@ -86,7 +102,7 @@ I:44415436
 T:Citrus iconv, character set conversion
 p:cmd:iconv=1.16-r6
 
-C:Q2sSJxhzAPs6qvcVHFviYEB7mFw6Ns+faUCXu30cciU9o=
+C:Q29mDsLHcR8h2oSD+o/1Zts+VFFZmWARqUb5nnd4LUj+o=
 P:le
 V:1.16.8-r9
 S:211096
@@ -94,7 +110,7 @@ I:624211
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r9
 
-C:Q2nGlezQQY585MMHdDPI83g8tc0Kp/pJwR3l8eXdWcy4w=
+C:Q211xT2gLx0xyUH0HDGMy68d3EdzlUGkGIXthUXWfpHgE=
 P:mbasic
 V:1.1-r8
 S:75230
@@ -102,7 +118,7 @@ I:174192
 T:Microsoft BASIC 1.1 for the 6502
 p:cmd:mbasic=1.1-r8
 
-C:Q2dCNH/9i0CzjGcUmrUCS02BzdyU3iebSRQnU4PcETSvA=
+C:Q2opWt9PqMoTW3+9O98DmfbCyukbnohJTCnLMmNSjbLBc=
 P:python
 V:3.14.0-r2
 S:3420079
@@ -110,7 +126,7 @@ I:11932638
 T:Python 3, written for Braam
 p:cmd:python=3.14.0-r2
 
-C:Q2GAv7ZsOHqxQSg8dkSuI2EGwV2AMfPs/hBvVQ0UhCTw0=
+C:Q2BhdGF0730Z1MyorRrYj8DU5zL8swMhZSj8NWPQqHm6g=
 P:simbesm
 V:1.0-r4
 S:2594172
@@ -118,7 +134,7 @@ I:16779881
 T:BESM-6 mainframe simulator that boots Unix
 p:cmd:besm6=1.0-r4
 
-C:Q2exkiNA0aAVwqDe+hWcMkaopYIO3JPssQmRvEsli4YQw=
+C:Q2oafo9HKt2d0HWaHtbQBb33bIHpAxxnSGRq8u8xyPaJs=
 P:uemacs
 V:4.0.15-r5
 S:169194
@@ -126,7 +142,7 @@ I:400982
 T:uEmacs/PK 4.0.15, the MicroEMACS screen editor
 p:cmd:em=4.0.15-r5
 
-C:Q2MOoyT+P8V/PDo+guyQBa5mH2Ws9n9ELcC84pAkUJ9bM=
+C:Q2gbhbfWWh/Dj9VkjE65BQdSMUr7locymmS+DeM5YKYDs=
 P:vi
 V:3.6-r14
 S:161111
@@ -134,10 +150,26 @@ I:475850
 T:UCB ex/vi 3.6, the visual editor
 p:cmd:ex=3.6-r14 cmd:vi=3.6-r14
 
-C:Q2RaGMcQiBXQ0iz3nAEm/Y056pgPNDOYRKlv+0D4RfwzU=
+C:Q21jt7jiyy2RvLSZyPprBN0xah9S3zL4lD0dZE75993bU=
+P:xz
+V:5.8.4-r0
+S:587864
+I:1437336
+T:xz 5.8.4
+p:cmd:lzcat=5.8.4-r0 cmd:lzma=5.8.4-r0 cmd:unlzma=5.8.4-r0 cmd:unxz=5.8.4-r0 cmd:xz=5.8.4-r0 cmd:xzcat=5.8.4-r0
+
+C:Q2wJ63xkKH1zq3qHpb6UKW78R/p8yyHcqFDK1ooAhC6AU=
 P:zip
 V:3.0-r6
 S:306794
 I:1020735
 T:Info-ZIP zip 3.0, the archiver
 p:cmd:zip=3.0-r6 cmd:zipcloak=3.0-r6 cmd:zipnote=3.0-r6 cmd:zipsplit=3.0-r6
+
+C:Q2G1UK7EswtQfsA/J2lkXrPxVPze4IPNj21kVNI8b3ol8=
+P:zstd
+V:1.6.0-r0
+S:972653
+I:3170836
+T:Zstandard 1.6.0
+p:cmd:unzstd=1.6.0-r0 cmd:zstd=1.6.0-r0 cmd:zstdcat=1.6.0-r0 cmd:zstdmt=1.6.0-r0
