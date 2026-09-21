@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= gAlBJrKjfr0/ltFFlBFMKTqzvwdih4fwZiBiu8Yh0/6/3+9WEINVTICoMTLrjY9YinW6mDRrktH8QQrdhznNCA==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 97bSWky4HZH/9ong9Z/ACtn3UgbpXFBWuxbkVRhTRo3ZS6BH3yPuLrW5oKNKjmluVfIuHn+oPjadMLy48CrOBw==
 
 X:1
 N:https://braamix.github.io
-G:50
+G:51
 E:1818806400000
 T:Braam applications
 
@@ -78,13 +78,13 @@ I:174192
 T:Microsoft BASIC 1.1 for the 6502
 p:cmd:mbasic=1.1-r8
 
-C:Q23MGOTnubSEmAppQ0X3whWGe9eqL9geQpoaf8CWZinxk=
+C:Q2dCNH/9i0CzjGcUmrUCS02BzdyU3iebSRQnU4PcETSvA=
 P:python
-V:3.14.0-r1
-S:2480328
-I:8632071
+V:3.14.0-r2
+S:3420079
+I:11932638
 T:Python 3, written for Braam
-p:cmd:python=3.14.0-r1
+p:cmd:python=3.14.0-r2
 
 C:Q2GAv7ZsOHqxQSg8dkSuI2EGwV2AMfPs/hBvVQ0UhCTw0=
 P:simbesm
