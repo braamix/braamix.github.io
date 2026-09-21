@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= JduVAvFwnjynPQv3B5VzE/WQaDDEEi9MMgOFLEK/7K9G8l5+6Via/dtbhNveU5s6KofojKa7688JSnnvHzKYCg==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 6eBjy8B1HuLkVu12sGvc4TB9ET4uYLkLwKyAJrE0kO96N/0W236jrLkSdEB9bczv77/XwchmW9YL11AN7s6uDw==
 
 X:1
 N:https://braamix.github.io
-G:53
+G:54
 E:1818806400000
 T:Braam applications
 
@@ -13,6 +13,14 @@ S:60303
 I:168139
 T:Colossal Cave Adventure
 p:cmd:adventure=1.0-r9
+
+C:Q2FJ4EpFLxuTowA9kNCwhVDgoV4Zxr9u9eTAIROQkOaW0=
+P:asciiclock
+V:1.0-r0
+S:23626
+I:511581
+T:ASCII demo clock
+p:cmd:asciiclock=1.0-r0
 
 C:Q2tUW5MG1fHrkr/mQH1udHw4qTCy82inh1oQV3JLUDnnU=
 P:asciifluid
