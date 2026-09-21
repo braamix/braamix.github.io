@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 8i16m33kWdvhrSzfqJecgnzmvG3kDWcbgkkhTekY3gmlz75cyUBsQz5BHGTbi/Tz8pXtAyaViucC3CEcmDW3BA==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= JduVAvFwnjynPQv3B5VzE/WQaDDEEi9MMgOFLEK/7K9G8l5+6Via/dtbhNveU5s6KofojKa7688JSnnvHzKYCg==
 
 X:1
 N:https://braamix.github.io
-G:52
+G:53
 E:1818806400000
 T:Braam applications
 
@@ -30,13 +30,13 @@ I:64716
 T:ASCII art aquarium animation
 p:cmd:asciiquarium=2.2.0-r2
 
-C:Q2K7Q6VLwW9NAXk2ITsE7fqRd4cc0vqMPt08vfYCt+oDQ=
+C:Q2SmmM+ysIdjHMxSI86AJ2LdoerWEHr53yK56+V9s4xAU=
 P:cmatrix
-V:1.2a-r0
-S:11915
-I:31479
+V:1.2a-r1
+S:11919
+I:31483
 T:ASCII Matrix screensaver
-p:cmd:cmatrix=1.2a-r0
+p:cmd:cmatrix=1.2a-r1
 
 C:Q2qOYzoMm+iZnE9/Gbsx4Fc25S4dGnBbOBCnO6okzhMAo=
 P:dhrystone
