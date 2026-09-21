@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 6eBjy8B1HuLkVu12sGvc4TB9ET4uYLkLwKyAJrE0kO96N/0W236jrLkSdEB9bczv77/XwchmW9YL11AN7s6uDw==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= H83dWmV2z14vOb/xk6NAdGthNN9ut2I6CvTnNDe4mCuodE6pOgdybZpACOQuyNEUcCfksYgACFGVtL8HVqDsBg==
 
 X:1
 N:https://braamix.github.io
-G:54
+G:55
 E:1818806400000
 T:Braam applications
 
@@ -38,7 +38,15 @@ I:64716
 T:ASCII art aquarium animation
 p:cmd:asciiquarium=2.2.0-r2
 
-C:Q2SmmM+ysIdjHMxSI86AJ2LdoerWEHr53yK56+V9s4xAU=
+C:Q2tyB4Jvf1ZX4owqLBThiTWb0sjR2JMVF4R9fxgWSnU68=
+P:c4
+V:1.0-r0
+S:25801
+I:78727
+T:C4, C in four functions
+p:cmd:c4=1.0-r0
+
+C:Q20zTL6IQxF3zD/kAYyjGJJPUMJ5FTeOS8IZWi936qdY4=
 P:cmatrix
 V:1.2a-r1
 S:11919
