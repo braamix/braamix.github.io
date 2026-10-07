@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= BAfJWhrVuUrFdwCUUcEKlJKaQ0cmheMXLzAFuA2BCZhxZvVBCWNyK+WTvLg+Ft8MXF3kD6EBb6OWvl9RxgY5BQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= Z4Io3iSHVo9SCMIk163V2v+gHavKMud4hRFlO6DhfTDZZlh9rUmTbkG4RA5lhCXnLpLOcnaLNd4Ux1BIR75nAw==
 
 X:1
 N:https://braamix.github.io
-G:61
+G:62
 E:1818806400000
 T:Braam applications
 
@@ -126,13 +126,13 @@ I:11932638
 T:Python 3, written for Braam
 p:cmd:python=3.14.0-r2
 
-C:Q2BhdGF0730Z1MyorRrYj8DU5zL8swMhZSj8NWPQqHm6g=
+C:Q2JvLUKf8LFBcx/gG84YT+JDX87qY/akVKtfvswdAeC/I=
 P:simbesm
-V:1.0-r4
-S:2594172
-I:16779881
+V:1.0-r5
+S:2594402
+I:16780224
 T:BESM-6 mainframe simulator that boots Unix
-p:cmd:besm6=1.0-r4
+p:cmd:besm6=1.0-r5
 
 C:Q2oafo9HKt2d0HWaHtbQBb33bIHpAxxnSGRq8u8xyPaJs=
 P:uemacs
