@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= Z+tJcYkurux/dqdVESR+csiZOS/vqBz7r+xHYQ50Vd73GJ/sawJtEjKiIFq1FZwkTSr1WhhoPThAh0ME2doMDQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= ajG5DbccdD0qIfJvyKFUV9vRxdXEI2jESiuMiTgXoWRIuDJOglgN52FVa15h9CsLPNeyit67c8/1EJSxakPODQ==
 
 X:1
 N:https://braamix.github.io
-G:66
+G:67
 E:1818806400000
 T:Braam applications
 
@@ -118,6 +118,14 @@ S:211096
 I:624211
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r9
+
+C:Q2shZxKXjVP77KbWbED4syiFrzEVq9aWT0boDPup0SPwQ=
+P:make
+V:2.58-r5
+S:76217
+I:214654
+T:POSIX and GNU make, grown from V7 make
+p:cmd:make=2.58-r5
 
 C:Q211xT2gLx0xyUH0HDGMy68d3EdzlUGkGIXthUXWfpHgE=
 P:mbasic
