@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= ajG5DbccdD0qIfJvyKFUV9vRxdXEI2jESiuMiTgXoWRIuDJOglgN52FVa15h9CsLPNeyit67c8/1EJSxakPODQ==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 2B25q80tMOPvjFQ/lU3w3sS6cAL8Q16sh4jXTbD9E95Ta4UnvFzEBiZ41jzqqVgLZW91s78ChCtlqhfh3m3SBA==
 
 X:1
 N:https://braamix.github.io
-G:67
+G:68
 E:1818806400000
 T:Braam applications
 
@@ -167,13 +167,13 @@ I:475850
 T:UCB ex/vi 3.6, the visual editor
 p:cmd:ex=3.6-r14 cmd:vi=3.6-r14
 
-C:Q2ST19wWENvTsvDf9X+/5KuxfT/yWjfganoXlsV0k3jIo=
+C:Q2q1MOU13PHAub9wUhaB1NBez0zqbIJEcBlIAkT5rGbkY=
 P:wasm
-V:0.5-r0
-S:479945
-I:1479162
+V:0.5-r1
+S:489465
+I:1503956
 T:WebAssembly tools: ld, strip, ar, size, nm, disasm, wat and as
-p:cmd:ar=0.5-r0 cmd:as=0.5-r0 cmd:disasm=0.5-r0 cmd:ld=0.5-r0 cmd:nm=0.5-r0 cmd:size=0.5-r0 cmd:strip=0.5-r0 cmd:wat=0.5-r0
+p:cmd:ar=0.5-r1 cmd:as=0.5-r1 cmd:disasm=0.5-r1 cmd:ld=0.5-r1 cmd:nm=0.5-r1 cmd:size=0.5-r1 cmd:strip=0.5-r1 cmd:wat=0.5-r1
 
 C:Q2FfBSeDWz9eKYeCFYCMxoRxmk0Upgw/XRHHcGMRAGO6I=
 P:xz
