@@ -1,8 +1,8 @@
-Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= 2B25q80tMOPvjFQ/lU3w3sS6cAL8Q16sh4jXTbD9E95Ta4UnvFzEBiZ41jzqqVgLZW91s78ChCtlqhfh3m3SBA==
+Y:ed25519 Q2nMm6V+JrMiNoyZe2JLzIdK3WjWYle3fLEfDt15ccpg4= M/z5azGFLjDoA7zmPOthzaSpd0GnBSHLZ4bcGEflTL4v3BwZ/gT6LofSn1PEkAXz0h2ynjEShRfntsrhebsvDA==
 
 X:1
 N:https://braamix.github.io
-G:68
+G:69
 E:1818806400000
 T:Braam applications
 
@@ -71,6 +71,14 @@ I:31483
 T:ASCII Matrix screensaver
 p:cmd:cmatrix=1.2a-r1
 
+C:Q2f8CHAoSYuxKC0AYOtwPhnfkCsMNw2DHRZROH21WcrlY=
+P:csources
+V:0.1-r1
+S:584758
+I:2190810
+T:vcc's C sources, and a Makefile that builds the compiler on Braam
+D:cc make
+
 C:Q2jW4nx5I98Ttbk6W1zbBrN1jBYJul2FLtblYu+vdkmp8=
 P:dhrystone
 V:2.1-r8
@@ -119,13 +127,13 @@ I:624211
 T:LE 1.16.8, a block-oriented text editor
 p:cmd:le=1.16.8-r9
 
-C:Q2shZxKXjVP77KbWbED4syiFrzEVq9aWT0boDPup0SPwQ=
+C:Q2GQGZFfXk1qB7yqs/bXB8sLSipALpMtOOa2qP+hW236M=
 P:make
-V:2.58-r5
+V:2.58-r6
 S:76217
-I:214654
+I:214618
 T:POSIX and GNU make, grown from V7 make
-p:cmd:make=2.58-r5
+p:cmd:make=2.58-r6
 
 C:Q211xT2gLx0xyUH0HDGMy68d3EdzlUGkGIXthUXWfpHgE=
 P:mbasic
